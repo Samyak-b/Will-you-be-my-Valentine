@@ -1,10 +1,9 @@
-# Be-my-Valentine
-Made this for someone, someone truly special.
 # Be My Valentine? ❤️
 
 This repository contains the source code for a fun "Be My Valentine?" website with a playful twist.  It features a "Yes" and "No" button, where saying "No" makes the "Yes" button progressively larger, adding a humorous element to the proposal.  Saying "Yes" redirects the user to a special page.
 
 This project was created for someone very special in my life. 😊
+I might add some music in the background, sometime soon.
 
 ## Demo
 
