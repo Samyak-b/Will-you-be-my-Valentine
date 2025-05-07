@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
     "Are you sure?",
     "Are you sure, sure?",
     "So you're choosing to wake up alone in the morning?",
-    "But I was gonna bring you breakfast...",
+    "But I was gonna make you breakfast...",
     "Not the kind of Breakfast you had in mind though!",
     "haha! I know you better",
     "pulls out a gun*",
